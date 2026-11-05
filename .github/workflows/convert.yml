@@ -1,0 +1,25 @@
+   name: convert
+   on:
+     workflow_dispatch:
+     schedule:
+       - cron: "0 */6 * * *"
+   jobs:
+     run:
+       runs-on: ubuntu-latest
+       permissions:
+         contents: write
+       steps:
+         - uses: actions/checkout@v4
+         - name: Convert
+           env:
+             SUB_URL: ${{ secrets.SUB_URL }}
+             OLD_DOMAIN: ${{ secrets.OLD_DOMAIN }}
+             NEW_DOMAIN: ${{ secrets.NEW_DOMAIN }}
+           run: python convert.py
+         - name: Commit
+           run: |
+             git config user.name "bot"
+             git config user.email "bot@users.noreply.github.com"
+             git add out.txt
+             git commit -m "update" || exit 0
+             git push
