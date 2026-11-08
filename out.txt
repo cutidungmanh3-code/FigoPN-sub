@@ -9,52 +9,52 @@ hosts:
   time.facebook.com: 17.253.84.125
   time.android.com: 17.253.84.125
 proxies:
-  - {name: 🇭🇰 香港W01, server: 4.j.w.1.r.y.9.3.b.hk01-ae5.entry.figopn.com, port: 19272, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇯🇵 日本W01 | IEPL, server: e.f.w.1.r.y.t.3.b.jp01-ae5.entry.figopn.com, port: 473, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇭🇰 香港W02 | IEPL, server: e.9.h.j.e.t.9.3.b.hk02-ae5.entry.figopn.com, port: 14560, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇯🇵 日本W02 | IEPL, server: 0.f.w.j.r.t.z.3.b.jp02-ae5.entry.figopn.com, port: 483, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇭🇰 香港W03 | IEPL, server: p.j.o.s.d.u.z.3.b.hk03-ae5.entry.figopn.com, port: 760, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇯🇵 日本W03 | IEPL, server: p.f.h.s.e.u.t.3.b.jp03-ae5.entry.figopn.com, port: 488, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇭🇰 香港W04 | IEPL, server: e.j.o.j.d.t.t.3.b.hk04-ae5.entry.figopn.com, port: 804, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇯🇵 日本W04 | IEPL, server: p.9.w.1.e.y.i.3.b.jp04-ae5.entry.figopn.com, port: 493, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇭🇰 香港W05 | IEPL, server: 4.n.w.n.e.u.9.3.b.hk05-ae5.entry.figopn.com, port: 1812, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇯🇵 日本W05 | 下载专用 | x0.01, server: 0fh1rt9.g01.jp05-vm5.entry.rtysjur.quest, port: 64655, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港W06 | x0.8, server: p.9.h.n.r.y.t.3.b.hk06-ae5.entry.figopn.com, port: 1413, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇯🇵 日本W06 | 下载专用 | x0.01, server: 0jwnruz.g01.jp06-vm5.entry.rtysjur.quest, port: 663, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港W07 | x0.8, server: 0.j.w.j.r.u.t.3.b.hk07-ae5.entry.figopn.com, port: 1420, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇯🇵 日本W07 | IEPL, server: p.9.h.1.e.u.z.3.b.jp07-ae5.entry.figopn.com, port: 14005, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇭🇰 香港W08 | x0.8, server: p.n.w.n.r.u.z.3.b.hk08-ae5.entry.figopn.com, port: 18643, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇯🇵 日本W08 | IEPL, server: e.n.o.n.d.y.t.3.b.jp08-ae5.entry.figopn.com, port: 12543, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇭🇰 香港W09 | IEPL, server: 0.f.o.1.e.u.t.3.b.hk09-vm5.entry.figopn.com, port: 15265, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 日本W09 | IEPL, server: p.9.h.n.d.u.i.3.b.jp09-ae5.entry.figopn.com, port: 11158, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇭🇰 香港W10 | IEPL, server: e.9.w.n.e.u.9.3.b.hk10-vm5.entry.figopn.com, port: 13483, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: speedtest-bgp-01-10.entry-0.chinasnow.net}}, udp: true}
-  - {name: 🇯🇵 日本W10 | IEPL, server: 0.j.o.s.d.y.9.3.b.jp10-ae5.entry.figopn.com, port: 16524, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇭🇰 香港W11 | IEPL, server: p.j.o.n.e.u.9.3.b.hk11-vm5.entry.figopn.com, port: 575, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /tutorial/iphone13.m3u8, headers: {Host: speedtest-bgp-01-11.entry-0.chinasnow.net}}, udp: true}
-  - {name: 🇯🇵 日本W11 | IEPL, server: e.f.o.1.d.y.t.3.b.jp11-ae5.entry.figopn.com, port: 17741, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇸🇬 新加坡W01 | IEPL | x2, server: 0.9.o.j.d.y.9.3.b.sg01-ae5.entry.figopn.com, port: 20000, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇸🇬 新加坡W02 | IEPL | x2, server: 0.j.o.s.d.y.9.3.b.sg02-ae5.entry.figopn.com, port: 20075, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇸🇬 新加坡W03 | IEPL | x2, server: p.n.o.1.e.u.t.3.b.sg03-ae5.entry.figopn.com, port: 20080, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇨🇳 台湾W01 | IEPL | x2, server: e.j.o.n.e.y.9.3.b.tw01-ae5.entry.figopn.com, port: 20005, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇺🇲 美国W01 | IEPL | x1.5, server: 0.f.h.1.r.u.t.3.b.us01-ae5.entry.figopn.com, port: 20010, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇺🇲 美国W02 | IEPL | x1.5, server: p.f.o.s.r.y.z.3.b.us02-ae5.entry.figopn.com, port: 20015, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇬🇧 英国W01, server: e.j.h.n.d.t.z.3.b.gb01-ae5.entry.figopn.com, port: 20020, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇦🇷 阿根廷W01, server: 0.n.o.1.d.t.z.3.b.ar01-ae5.entry.figopn.com, port: 20025, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇷🇺 俄罗斯W01, server: e.9.o.s.r.u.9.3.b.ru01-ae5.entry.figopn.com, port: 20030, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇹🇷 土耳其W01, server: 0.9.o.j.e.t.9.3.b.tr01-ae5.entry.figopn.com, port: 20035, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇰🇷 韩国W01, server: 0.j.h.s.d.u.z.3.b.kr01-ae5.entry.figopn.com, port: 20040, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇮🇳 印度W01, server: 4.f.h.j.e.y.9.3.b.in01-ae5.entry.figopn.com, port: 20045, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇩🇪 德国W01, server: p.j.h.1.d.t.i.3.b.de01-ae5.entry.figopn.com, port: 20050, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇨🇦 加拿大W01, server: 4.9.o.s.r.u.i.3.b.ca01-ae5.entry.figopn.com, port: 20055, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇦🇺 澳大利亚W01, server: 0.f.w.1.r.u.t.3.b.au01-ae5.entry.figopn.com, port: 20060, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇫🇷 法国W01, server: 0.f.w.1.e.t.i.3.b.fr01-ae5.entry.figopn.com, port: 20065, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇺🇦 乌克兰W01, server: e.9.w.j.e.u.z.3.b.ua01-ae5.entry.figopn.com, port: 20070, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
-  - {name: 🇯🇵 免费-日本1-Ver.7, server: pjhjeuz-g01.jp01-nn-vm0.entry.fr0528.art, port: 21581, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 免费-日本2-Ver.8, server: pfhndt9-g01.jp02-e3-vm0.entry.fr0528.art, port: 11773, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 免费-日本3-Ver.7, server: pnh1eut-g01.jp03-j7-vm0.entry.fr0528.art, port: 21581, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 免费-日本4-Ver.8, server: 0fw1eui-g01.jp04-1d-vm0.entry.fr0528.art, port: 444, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 免费-日本5-Ver.9, server: p9hseui-g01.jp05-h6-vm0.entry.fr0528.art, port: 46482, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 免费-日本6-Ver.8, server: pjojdtz-g01.jp06-jz-vm0.entry.fr0528.art, port: 28783, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 免费-日本7-Ver.2, server: 0jhjruz-g01.jp07-sh-vm0.entry.fr0528.art, port: 28783, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港W01, server: p.9.h.s.d.y.9.3.b.hk01-ae5.entry.figopn.com, port: 19272, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇯🇵 日本W01 | IEPL, server: 0.j.w.j.r.y.9.3.b.jp01-ae5.entry.figopn.com, port: 473, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇭🇰 香港W02 | IEPL, server: 0.f.h.1.r.y.t.3.b.hk02-ae5.entry.figopn.com, port: 14560, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇯🇵 日本W02 | IEPL, server: 0.j.h.s.r.y.t.3.b.jp02-ae5.entry.figopn.com, port: 483, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇭🇰 香港W03 | IEPL, server: p.9.o.s.r.u.i.3.b.hk03-ae5.entry.figopn.com, port: 760, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇯🇵 日本W03 | IEPL, server: p.f.h.n.e.y.t.3.b.jp03-ae5.entry.figopn.com, port: 488, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇭🇰 香港W04 | IEPL, server: p.j.o.j.d.t.i.3.b.hk04-ae5.entry.figopn.com, port: 804, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇯🇵 日本W04 | IEPL, server: 4.j.h.s.d.u.9.3.b.jp04-ae5.entry.figopn.com, port: 493, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇭🇰 香港W05 | IEPL, server: p.j.o.s.e.t.z.3.b.hk05-ae5.entry.figopn.com, port: 1812, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇯🇵 日本W05 | 下载专用 | x0.01, server: 0nwnrtt.g01.jp05-vm5.entry.rtysjur.quest, port: 64655, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港W06 | x0.8, server: 4.9.h.n.e.t.i.3.b.hk06-ae5.entry.figopn.com, port: 1413, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇯🇵 日本W06 | 下载专用 | x0.01, server: pjhsrti.g01.jp06-vm5.entry.rtysjur.quest, port: 663, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港W07 | x0.8, server: e.n.o.1.e.y.t.3.b.hk07-ae5.entry.figopn.com, port: 1420, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇯🇵 日本W07 | IEPL, server: 0.n.o.j.e.t.i.3.b.jp07-ae5.entry.figopn.com, port: 14005, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇭🇰 香港W08 | x0.8, server: 0.n.w.s.r.t.9.3.b.hk08-ae5.entry.figopn.com, port: 18643, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇯🇵 日本W08 | IEPL, server: 0.j.o.j.e.u.t.3.b.jp08-ae5.entry.figopn.com, port: 12543, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇭🇰 香港W09 | IEPL, server: 4.9.w.n.e.t.i.3.b.hk09-vm5.entry.figopn.com, port: 15265, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 日本W09 | IEPL, server: 0.f.w.n.e.u.i.3.b.jp09-ae5.entry.figopn.com, port: 11158, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇭🇰 香港W10 | IEPL, server: p.j.w.1.r.t.z.3.b.hk10-vm5.entry.figopn.com, port: 13483, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: speedtest-bgp-01-10.entry-0.chinasnow.net}}, udp: true}
+  - {name: 🇯🇵 日本W10 | IEPL, server: 0.n.w.s.d.y.9.3.b.jp10-ae5.entry.figopn.com, port: 16524, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇭🇰 香港W11 | IEPL, server: e.9.h.s.d.y.9.3.b.hk11-vm5.entry.figopn.com, port: 575, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /tutorial/iphone13.m3u8, headers: {Host: speedtest-bgp-01-11.entry-0.chinasnow.net}}, udp: true}
+  - {name: 🇯🇵 日本W11 | IEPL, server: p.n.w.n.r.y.i.3.b.jp11-ae5.entry.figopn.com, port: 17741, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇸🇬 新加坡W01 | IEPL | x2, server: p.j.o.1.e.t.t.3.b.sg01-ae5.entry.figopn.com, port: 20000, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇸🇬 新加坡W02 | IEPL | x2, server: 0.f.h.1.r.y.9.3.b.sg02-ae5.entry.figopn.com, port: 20075, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇸🇬 新加坡W03 | IEPL | x2, server: p.f.h.1.d.t.z.3.b.sg03-ae5.entry.figopn.com, port: 20080, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇨🇳 台湾W01 | IEPL | x2, server: e.j.h.s.e.u.z.3.b.tw01-ae5.entry.figopn.com, port: 20005, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇺🇲 美国W01 | IEPL | x1.5, server: e.j.o.1.r.y.t.3.b.us01-ae5.entry.figopn.com, port: 20010, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇺🇲 美国W02 | IEPL | x1.5, server: 0.9.h.s.d.t.i.3.b.us02-ae5.entry.figopn.com, port: 20015, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇬🇧 英国W01, server: e.j.o.1.r.t.t.3.b.gb01-ae5.entry.figopn.com, port: 20020, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇦🇷 阿根廷W01, server: 0.f.h.1.d.u.t.3.b.ar01-ae5.entry.figopn.com, port: 20025, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇷🇺 俄罗斯W01, server: 4.n.w.1.r.y.z.3.b.ru01-ae5.entry.figopn.com, port: 20030, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇹🇷 土耳其W01, server: p.f.h.j.e.y.i.3.b.tr01-ae5.entry.figopn.com, port: 20035, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇰🇷 韩国W01, server: e.f.w.j.e.y.9.3.b.kr01-ae5.entry.figopn.com, port: 20040, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇮🇳 印度W01, server: 0.f.h.j.e.u.9.3.b.in01-ae5.entry.figopn.com, port: 20045, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇩🇪 德国W01, server: e.9.h.j.e.u.9.3.b.de01-ae5.entry.figopn.com, port: 20050, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇨🇦 加拿大W01, server: e.9.o.n.r.y.i.3.b.ca01-ae5.entry.figopn.com, port: 20055, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇦🇺 澳大利亚W01, server: e.j.o.1.r.u.i.3.b.au01-ae5.entry.figopn.com, port: 20060, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇫🇷 法国W01, server: 0.f.o.n.e.y.i.3.b.fr01-ae5.entry.figopn.com, port: 20065, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇺🇦 乌克兰W01, server: 0.n.h.n.d.u.t.3.b.ua01-ae5.entry.figopn.com, port: 20070, type: ss, cipher: aes-256-gcm, password: c1371115-7b1e-31a4-9c2b-76277481e26d, udp: true}
+  - {name: 🇯🇵 免费-日本1-Ver.7, server: 4noseyi-g01.jp01-nn-vm0.entry.fr0528.art, port: 21581, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 免费-日本2-Ver.8, server: 4fwndti-g01.jp02-e3-vm0.entry.fr0528.art, port: 11773, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 免费-日本3-Ver.7, server: e9o1eti-g01.jp03-j7-vm0.entry.fr0528.art, port: 21581, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 免费-日本4-Ver.8, server: p9ojdtz-g01.jp04-1d-vm0.entry.fr0528.art, port: 444, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 免费-日本5-Ver.9, server: 09osdtz-g01.jp05-h6-vm0.entry.fr0528.art, port: 46482, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 免费-日本6-Ver.8, server: pfhneu9-g01.jp06-jz-vm0.entry.fr0528.art, port: 28783, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 免费-日本7-Ver.2, server: 4fondti-g01.jp07-sh-vm0.entry.fr0528.art, port: 28783, type: vmess, uuid: c1371115-7b1e-31a4-9c2b-76277481e26d, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
 proxy-groups:
   - name: 🔰 选择节点
     type: select
